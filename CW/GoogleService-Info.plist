@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>611419783513-heamnm94j5f49mqof14ml1h7a61njotf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.611419783513-heamnm94j5f49mqof14ml1h7a61njotf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1tOHCOeljHs_O5sRji_Xu1dD2mMSSfW8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>611419783513</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>egorstroev.CW</string>
+	<key>PROJECT_ID</key>
+	<string>findwork-32916</string>
+	<key>STORAGE_BUCKET</key>
+	<string>findwork-32916.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:611419783513:ios:adadf4bfa8f438e1650c48</string>
+	<key>DATABASE_URL</key>
+	<string>https://findwork-32916.firebaseio.com</string>
+</dict>
+</plist>
